@@ -1,0 +1,7 @@
+Tea
+50 1.5 Green_tea_with_milk
+50 1.5 Milk_tea
+50 1 Lemonade_tea
+50 1 Green_tea_honey_lime
+50 1.5 Red_tea_with_milk
+50 1 Red_tea_honey_lime

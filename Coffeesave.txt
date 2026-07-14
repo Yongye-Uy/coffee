@@ -1,0 +1,8 @@
+Coffee
+50 2 Espresso
+50 1.5 Coffee_with_milk
+50 1.5 Black_coffee
+50 2 Honey_black_coffee
+50 2 Cappuccino
+50 2 Latte		
+50 2 Mocha
